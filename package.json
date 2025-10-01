@@ -1,0 +1,14 @@
+{
+  "name": "balance-checker",
+  "version": "1.0.0",
+  "description": "A CLI tool to check balances of multiple wallets.",
+  "main": "balance-checker.js",
+  "scripts": {
+    "start": "node balance-checker.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.7.0"
+  }
+}
